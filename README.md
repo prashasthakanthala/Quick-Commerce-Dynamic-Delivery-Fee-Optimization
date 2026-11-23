@@ -26,4 +26,4 @@ Using a **50,000-order random sample** from the Instacart dataset (`49,857` vali
 - **SQL (SQLite):** CTEs, multi-table joins, value-weighted cart margins, and ordered `CASE WHEN` policy segmentation.
 - **Python (`pandas`, `mlxtend`, `matplotlib`):** Chunked ETL sampling, Apriori association rule mining, sensitivity simulation, and visualization.
 - **Power BI:** Interactive cross-filtering dashboard across policy segments, dayparts, and sensitivity scenarios.
--
+
